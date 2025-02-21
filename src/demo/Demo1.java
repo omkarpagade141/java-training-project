@@ -6,6 +6,7 @@ public class Demo1 {
 	private String studentName;
 	private int rollNo;
 	private char div;
+	private boolean bool=true;
 	
 	
 	
